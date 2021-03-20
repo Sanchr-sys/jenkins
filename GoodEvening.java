@@ -1,7 +1,7 @@
-public class GoodMorning
+public class GoodEvening
 {   
       public static void main(String[] args)
       {       
-         System.out.println("GoodMorning");   
+         System.out.println("GoodEvening");   
       }
 } 
