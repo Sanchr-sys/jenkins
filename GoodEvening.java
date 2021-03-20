@@ -1,6 +1,6 @@
 class GoodEvening
 {   
-      public static void main(String[] args) {       
-         System.out.println("GoodEvening");   
-      }
+public static void main(String[] args) {       
+System.out.println("GoodEvening");   
+}
 } 
